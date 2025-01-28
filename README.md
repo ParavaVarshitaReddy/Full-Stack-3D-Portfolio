@@ -1,10 +1,4 @@
-Here's a **README.md** file for your project. This file provides a clear description of your project, how to set it up, and how to use it.
 
----
-
-### **`README.md`**
-
-```markdown
 # Full Stack 3D Portfolio Website
 
 This is a full-stack portfolio website that showcases 3D models with **React**, **Three.js**, **Node.js**, **Express.js**, and **MongoDB**. It features a **responsive design** using **Tailwind CSS** and integrates **Continuous Integration and Continuous Deployment (CI/CD)** via **GitHub Actions**. The app displays an interactive 3D model that users can view and interact with directly in the browser.
